@@ -34,3 +34,13 @@ added to the button in the index html file as well.*/
 /*********************************************
  Write your css customizations below
  *********************************************/
+
+ .narrow {
+   width: 50%;
+ }
+
+@media screen and (max-width: 620px) {
+  .narrow {
+    width: 100%;
+  }
+}
