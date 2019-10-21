@@ -3641,7 +3641,7 @@ take precedence the ones in this file. */
 			.post .content:before {
 				content: '';
 				display: inline-block;
-				height: 100%;
+				/* height: 100%; */
 				vertical-align: middle;
 				margin-right: -0.25em;
 			/* Adjusts for spacing */
